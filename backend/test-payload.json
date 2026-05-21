@@ -1,0 +1,3 @@
+{
+  "transcript": "Okay team, so for this sprint we need to build three main things. First, a user authentication system — signup, login, logout with JWT tokens. Second, a user profile page where people can update their name, bio, and upload a profile picture — store images on Cloudinary. Third, a dashboard that shows the user's recent activity. We'll use MongoDB for the database, Node.js backend with REST API, and React for the frontend. The profile picture upload needs to have file size validation — max 2MB."
+}
